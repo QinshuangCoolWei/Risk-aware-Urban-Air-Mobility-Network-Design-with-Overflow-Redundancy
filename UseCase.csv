@@ -1,0 +1,7 @@
+,Milwaukee,Atlanta,Dallas-Fort Worth
+Approx. Area Size (miles2),630,1350,3500
+Approx. Population (U.S. 2020 census),"1,600,000","4,500,000","5,800,000"
+No. of Regular Nodes,7,11,15
+No. of O-D Pairs,12,58,64
+No. of Candidate Reserve Nodes,24,26,45
+Topology,Star,Hybrid mesh and star,Multi star
